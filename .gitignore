@@ -1,1 +1,13 @@
+.bash*
+.cache/
+.cloud-locale-test.skip
+.ipynb*
+.ipython/
+.jupyter/
+.local/
+.profile
+nohup.out
+*.ipynb
+.ssh
+.gitconfig
 !Reuven*ipynb
