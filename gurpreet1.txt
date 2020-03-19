@@ -1,1 +1,3 @@
-Japan::tokyoUSA::SFOGermany::Munich
+Japan::tokyo
+USA::SFO
+Germany::Munich
